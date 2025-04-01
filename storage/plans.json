@@ -5,8 +5,8 @@
             "name": "Basic",
             "price": 0,
             "resources": {
-                "cpu": 100,
-                "ram": 1024,
+                "cpu": 200,
+                "ram": 4024,
                 "disk": 10240,
                 "server": 2
             }
